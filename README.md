@@ -1,0 +1,2 @@
+# InventoryAdapters
+Adapt inventories
